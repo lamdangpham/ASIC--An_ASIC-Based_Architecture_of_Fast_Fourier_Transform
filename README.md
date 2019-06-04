@@ -21,7 +21,7 @@ We achieved a dynamic VLSI architecture of ANN, which can re-configure both mult
   
 02_Codes/04_Sim_log : Where storing simulation result
  
-02_Codes/05_Matlab_Simulation : Software to simulate FFT and obtained results are compared with hardware simulation result
+02_Codes/05_Matlab_Simulation : Software to simulate FFT (Matlab) and obtained results are compared with hardware simulation result
 
 README.md
 
