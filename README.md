@@ -1,11 +1,11 @@
-#ASIC-Based Architecture of Fast Fourier Transform (FFT) on 130nm Technology
+# ASIC-Based Architecture of Fast Fourier Transform (FFT) on 130nm Technology
 
 Work for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi
 Minh City, Vietnam.
 
 We achieved a dynamic VLSI architecture of ANN, which can re-configure both multiple layers and multiply nodes per layer. 
 
-1/ Hierarchy:
+# Hierarchy:
 
 01_Publications_Docs : Contain published papers and Documentation
 
