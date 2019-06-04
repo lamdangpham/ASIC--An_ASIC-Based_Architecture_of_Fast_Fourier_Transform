@@ -6,6 +6,7 @@ Minh City, Vietnam.
 We achieved a dynamic VLSI architecture of ANN, which can re-configure both multiple layers and multiply nodes per layer. 
 
 1/ Hierarchy:
+
 01_Publications_Docs : Contain published papers and Documentation
 
 01_Publications_Docs/01_Technique Report for ASIC-Based FFT Architecture of Radix-2 FFT on 130nm Technology .pdf: Technique_Report_01 
