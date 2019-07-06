@@ -9,19 +9,16 @@ We achieved a dynamic VLSI architecture of ANN, which can re-configure both mult
 
 01_Publications_Docs : Contain published papers and Documentation
 
-01_Publications_Docs/01_Technique Report for ASIC-Based FFT Architecture of Radix-2 FFT on 130nm Technology .pdf: Technique_Report_01 
++ 01_Publications_Docs/01_Technique Report for ASIC-Based FFT Architecture of Radix-2 FFT on 130nm Technology .pdf: Technique_Report_01 
++ 01_Thesis_Presentation.tar.gz: Composed in Vietnamese language. This doc presents a Asic-based MFCC design that includes FFT architecture 
 
 02_Codes : Contain coding package 
 
-02_Codes/01_design : FFT Design only 
-
-02_Codes/02_simulate : FFT Design and testbench 
- 
-02_Codes/03_script : Scripts to generate weight data that will be stored into internal memory 
-  
-02_Codes/04_Sim_log : Where storing simulation result
- 
-02_Codes/05_Matlab_Simulation : Software to simulate FFT (Matlab) and obtained results are compared with hardware simulation result
++ 01_design : FFT Design only 
++ 02_simulate : FFT Design and testbench  
++ 03_script : Scripts to generate weight data that will be stored into internal memory   
++ 04_Sim_log : Where storing simulation result 
++ 05_Matlab_Simulation : Software to simulate FFT (Matlab) and obtained results are compared with hardware simulation result
 
 README.md
 
